@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pkl
+*.log
+data/raw/
+data/processed/
+models/
+.env
